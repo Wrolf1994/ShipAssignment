@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\unrealeditor\\inc\\shiptest\\uht\\shiptest.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\x64\\shiptesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shiptest\\definitions.shiptest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

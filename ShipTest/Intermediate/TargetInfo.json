@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShipTest",
+			"Path": "..\\Source\\ShipTest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShipTestEditor",
+			"Path": "..\\Source\\ShipTestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\unrealeditor\\inc\\shiptest\\uht\\shiptestgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\x64\\shiptesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shiptest\\definitions.shiptest.h",
+            "f:\\dump\\test\\shiptest\\source\\shiptest\\shiptestgamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\dump\\test\\shiptest\\intermediate\\build\\win64\\unrealeditor\\inc\\shiptest\\uht\\shiptestgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
