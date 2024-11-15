@@ -1,11 +1,11 @@
-"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\UnrealEditor\Inc\ShipTest\UHT\ShipTestCharacter.gen.cpp"
-/FI"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\Definitions.ShipTest.h"
-/Yu"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTestCharacter.gen.cpp.obj"
-/sourceDependencies "F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTestCharacter.gen.cpp.dep.json"
-@"F:\Dump\Test\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTest.Shared.rsp"
+"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\UnrealEditor\Inc\ShipTest\UHT\ShipTestCharacter.gen.cpp"
+/FI"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\Definitions.ShipTest.h"
+/Yu"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\ShipTestEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTestCharacter.gen.cpp.obj"
+/sourceDependencies "F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTestCharacter.gen.cpp.dep.json"
+@"F:\GitHub\ShipAssignment\ShipAssignment\ShipTest\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShipTest\ShipTest.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\github\\shipassignment\\shipassignment\\shiptest\\source\\shiptest\\private\\mygameinstance.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\github\\shipassignment\\shipassignment\\shiptest\\intermediate\\build\\win64\\x64\\shiptesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\github\\shipassignment\\shipassignment\\shiptest\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shiptest\\definitions.shiptest.h",
+            "f:\\github\\shipassignment\\shipassignment\\shiptest\\source\\shiptest\\public\\mygameinstance.h",
+            "f:\\github\\shipassignment\\shipassignment\\shiptest\\intermediate\\build\\win64\\unrealeditor\\inc\\shiptest\\uht\\mygameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

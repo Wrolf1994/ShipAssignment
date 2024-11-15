@@ -11,6 +11,7 @@
     <None Include="..\..\Source\ShipTestEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\ShipTest">
       <UniqueIdentifier>{B0E57589-9787-317D-92F0-B757CD557145}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ShipTest\Score.cpp">
+      <Filter>Source\ShipTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShipTest\Score.h">
+      <Filter>Source\ShipTest</Filter>
+    </ClInclude>
     <None Include="..\..\Source\ShipTest\ShipTest.Build.cs">
       <Filter>Source\ShipTest</Filter>
     </None>
@@ -52,6 +59,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\ShipTest\ShipTestGameMode.h">
       <Filter>Source\ShipTest</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShipTest\Private">
+      <UniqueIdentifier>{3998AADC-CA38-35A2-B2A9-79466792CE0E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShipTest\Private\MyGameInstance.cpp">
+      <Filter>Source\ShipTest\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ShipTest\Public">
+      <UniqueIdentifier>{23533642-2720-375B-9FB5-44B43BF88884}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ShipTest\Public\MyGameInstance.h">
+      <Filter>Source\ShipTest\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

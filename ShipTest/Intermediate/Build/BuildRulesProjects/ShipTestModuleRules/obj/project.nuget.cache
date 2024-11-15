@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MI2IIZ8M2s6y8Tkg8SmqeGbxWfnRvomDrGQYq9OZScD2LWj9JWccsxbFIulscaBNY/aFLENAYvJ/NZYCj87qRQ==",
+  "dgSpecHash": "qMn2ixTS0RZZE4b3k65Gx0VWycxDe56C5dps/yxUiYR3w/UrGKDQ4kJM2QqN6uHFAjfS78i4JcrpzdE32bPLdg==",
   "success": true,
-  "projectFilePath": "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
+  "projectFilePath": "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arnau\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\Arnau\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",

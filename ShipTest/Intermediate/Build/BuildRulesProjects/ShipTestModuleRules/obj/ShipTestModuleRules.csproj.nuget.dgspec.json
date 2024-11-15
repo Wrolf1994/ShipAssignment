@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj": {}
+    "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1291,14 +1291,14 @@
         }
       }
     },
-    "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj": {
+    "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
+        "projectUniqueName": "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
         "projectName": "ShipTestModuleRules",
-        "projectPath": "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
+        "projectPath": "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\ShipTestModuleRules.csproj",
         "packagesPath": "C:\\Users\\Arnau\\.nuget\\packages\\",
-        "outputPath": "F:\\Dump\\Test\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\obj\\",
+        "outputPath": "F:\\GitHub\\ShipAssignment\\ShipAssignment\\ShipTest\\Intermediate\\Build\\BuildRulesProjects\\ShipTestModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
