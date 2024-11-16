@@ -29,7 +29,7 @@ bool UScore::CheckWinCondition(int32 Distance) {
 
 	UE_LOG(LogTemp, Log, TEXT("Checking Win con..."));
 
-	if (Distance > 1000) {
+	if (Distance > 15000) {
 
 	UMyGameInstance* MyGameInstance = Cast<UMyGameInstance>(GetWorld()->GetGameInstance());
 	MyGameInstance->AddWins(1);
